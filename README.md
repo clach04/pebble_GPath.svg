@@ -31,4 +31,5 @@ Documentation for integration into your JavaScript to coming later...
 There is lots of room for improvement here! If you want to make this better please fork this repository and make a [pull requests](https://help.github.com/articles/using-pull-requests). Every sensible change will be merged.
 
 
-[draw_docs]: http://developer.getpebble.com/docs/c/group___path_drawing.html "Pebble GPath draw documentation"
+[draw_docs]: http://developer.rebble.io/docs/c/group___path_drawing.html "Pebble GPath draw documentation"
+
